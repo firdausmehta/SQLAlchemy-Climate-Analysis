@@ -46,9 +46,3 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration of 
   * Plotted the results as a histogram with `bins=12`.
 
     <img width="478" alt="station-histogram" src="https://user-images.githubusercontent.com/80393628/131209213-a448aceb-686d-40a7-a002-3c7a5c3ff354.png">
-
-### Climate App
-
-* Designed a Flask API based on the queries that I had developed.
-
-* Used Flask to create routes.
